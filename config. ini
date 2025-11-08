@@ -1,6 +1,12 @@
-[BOT_CONFIG]
+[bot]
+# Telegram bot token (keep this secret!)
+token = 8564241987:AAG34cIlUbE06_kvy_kt9YJA-DG5X-2dCBU
+
+# Telegram API credentials
 api_id = 38932002
 api_hash = a91e4c77c0a340081c99eec14e2f8a4c
-bot_token = 8564241987:AAG34cIlUbE06_kvy_kt9YJA-DG5X-2dCBU
-review_channel = -1003102743500
-confession_channel = -1003219197121
+
+# Group and channel IDs
+group_id = -1003102743500
+channel_id = -1003219197121
+
